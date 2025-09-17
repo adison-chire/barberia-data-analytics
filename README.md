@@ -55,4 +55,4 @@ Sigue estos pasos para configurar y ejecutar el proyecto en tu entorno local.
 Si tienes alguna pregunta o sugerencia, no dudes en contactarme:
 -   [Portfolio](https://adison-chire.github.io/)
 -   [LinkedIn](https://www.linkedin.com/in/adison-chire-1603s/)
--   📧 adichidev03@gmail.com
+-   adichidev03@gmail.com
