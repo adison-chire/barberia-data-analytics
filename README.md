@@ -29,7 +29,7 @@ El sistema centraliza información de clientes, empleados, inventario, servicios
 
 ### Tecnologías Utilizadas 
 
-`SQL Server` `SSMS` `Power BI` `Procedimientos almacenados` `Vistas` `Triggers` `Funciones`
+`SQL Server` `SSMS` `Power BI`
 
 ### Cómo Correr el Proyecto
 
