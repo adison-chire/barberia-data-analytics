@@ -1,21 +1,21 @@
-# Barbería Data Analytics
+# Barbershop Data Analytics
 
 Proyecto de análisis y gestión de datos para una barbería mediante **SQL Server** y **Power BI**.  
 El sistema centraliza información de clientes, empleados, inventario, servicios y ventas, permitiendo generar reportes interactivos que optimizan la toma de decisiones, reducen errores y mejoran la atención al cliente.
 
 <div align="center">
-  <img src="/ASSETS/dashboard_barber.gif" alt="Demostración del sistema de análisis de datos" style="border: 2px solid #cdc8c8ff; border-radius: 15px;">
+  <img src="/assets/dashboard_barber.gif" alt="Demostración del sistema de análisis de datos" style="border: 2px solid #cdc8c8ff; border-radius: 15px;">
 </div>
 
 <div align="center">
-  <img src="/ASSETS/sqlserver.png" width="600" alt="Gestión de clientes">
-  <img src="/ASSETS/dimen.png" width="600" alt="Gestión de inventario">
-  <img src="/ASSETS/data.png" width="600" alt="Registro de ventas">
-  <img src="/ASSETS/principal.png" width="600" alt="Reportes en Power BI">
-  <img src="/ASSETS/d_2.png" width="600" alt="Reportes en Power BI">
-  <img src="/ASSETS/d_3.png" width="600" alt="Reportes en Power BI">
-  <img src="/ASSETS/d_4.png" width="600" alt="Reportes en Power BI">
-  <img src="/ASSETS/d_5.png" width="600" alt="Reportes en Power BI">
+  <img src="/assets/sqlserver.png" width="600" alt="Gestión de clientes">
+  <img src="/assets/dimen.png" width="600" alt="Gestión de inventario">
+  <img src="/assets/data.png" width="600" alt="Registro de ventas">
+  <img src="/assets/principal.png" width="600" alt="Reportes en Power BI">
+  <img src="/assets/d_2.png" width="600" alt="Reportes en Power BI">
+  <img src="/assets/d_3.png" width="600" alt="Reportes en Power BI">
+  <img src="/assets/d_4.png" width="600" alt="Reportes en Power BI">
+  <img src="/assets/d_5.png" width="600" alt="Reportes en Power BI">
 </div>
 
 ### Características
