@@ -7,17 +7,6 @@ El sistema centraliza información de clientes, empleados, inventario, servicios
   <img src="/assets/dashboard_barber.gif" alt="Demostración del sistema de análisis de datos" style="border: 2px solid #cdc8c8ff; border-radius: 15px;">
 </div>
 
-<div align="center">
-  <img src="/assets/sqlserver.png" width="600" alt="Gestión de clientes">
-  <img src="/assets/dimen.png" width="600" alt="Gestión de inventario">
-  <img src="/assets/data.png" width="600" alt="Registro de ventas">
-  <img src="/assets/principal.png" width="600" alt="Reportes en Power BI">
-  <img src="/assets/d_2.png" width="600" alt="Reportes en Power BI">
-  <img src="/assets/d_3.png" width="600" alt="Reportes en Power BI">
-  <img src="/assets/d_4.png" width="600" alt="Reportes en Power BI">
-  <img src="/assets/d_5.png" width="600" alt="Reportes en Power BI">
-</div>
-
 ### Características
 -   **Gestión de Clientes** → Seguimiento de historial de visitas y fidelización.  
 -   **Gestión de Empleados** → Control de desempeño y productividad.  
@@ -50,8 +39,21 @@ Sigue estos pasos para configurar y ejecutar el proyecto en tu entorno local.
 4.  **Ejecuta las consultas de prueba** incluidas en el directorio `/sql-scripts`.
 5.  *(Opcional)* Conecta **Power BI** para visualizar los reportes.
 
+### Capturas de pantalla
+<div align="center">
+  <img src="/assets/sqlserver.png" width="600" alt="Gestión de clientes">
+  <img src="/assets/dimen.png" width="600" alt="Gestión de inventario">
+  <img src="/assets/data.png" width="600" alt="Registro de ventas">
+  <img src="/assets/principal.png" width="600" alt="Reportes en Power BI">
+  <img src="/assets/d_2.png" width="600" alt="Reportes en Power BI">
+  <img src="/assets/d_3.png" width="600" alt="Reportes en Power BI">
+  <img src="/assets/d_4.png" width="600" alt="Reportes en Power BI">
+  <img src="/assets/d_5.png" width="600" alt="Reportes en Power BI">
+</div>
+
 ### Contacto
 Si tienes alguna pregunta o sugerencia, no dudes en contactarme:
 -   [Portfolio](https://adison-chire.github.io/)
 -   [LinkedIn](https://www.linkedin.com/in/adison-chire-1603s/)
 -   adichidev03@gmail.com
+
