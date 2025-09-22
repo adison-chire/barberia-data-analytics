@@ -19,13 +19,12 @@ El sistema centraliza información de clientes, empleados, inventario, servicios
 </div>
 
 ### Características
--   **Gestión de Clientes**: Registro, actualización y eliminación de clientes.
--   **Gestión de Empleados**: Datos personales, contacto y contratos.
--   **Gestión de Servicios**: Registro de servicios, costos y relación con las ventas.
--   **Gestión de Inventario**: Control de stock y precios de productos.
--   **Gestión de Ventas**: Registro de ventas con detalle de clientes, empleados, productos y servicios.
--   **Seguridad y Auditoría**: Control de accesos y trazabilidad en la base de datos.
--   **Dashboards en Power BI**: Visualización de métricas clave en tiempo real.
+-   **Gestión de Clientes** → Seguimiento de historial de visitas y fidelización.  
+-   **Gestión de Empleados** → Control de desempeño y productividad.  
+-   **Gestión de Servicios** → Análisis de los más demandados y rentables.  
+-   **Gestión de Inventario** → Monitoreo de stock y productos más utilizados.  
+-   **Gestión de Ventas** → Reportes con desglose por día, mes y empleado.  
+-   **Dashboards en Power BI** → Métricas clave en tiempo real: ingresos, clientes frecuentes, rotación de productos, entre otros.
 
 ### Tecnologías Utilizadas 
 
